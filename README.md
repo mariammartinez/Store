@@ -1,6 +1,10 @@
-# PlatziStore
+# Céer un site E-commerce
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+Le projet consiste en tirer parti des fonctionnalités d'Angular pour construire un site e-commerce
+
+ ## Les contraintes techniques
+sont de créer une application en moins de temps grâce aux composants, modules et ro
+
 
 ## Development server
 
