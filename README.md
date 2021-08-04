@@ -9,6 +9,7 @@ sont de créer une application en moins de temps grâce aux composants modules e
 
 ### Front
 ````
+npm i
 ng serve
 ````
 
